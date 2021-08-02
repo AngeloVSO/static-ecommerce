@@ -9,6 +9,10 @@ Aplicação simples de uma página de e-commerce 100% responsiva. Os dados são 
 <h4 align='center'>
 👉 Status: Concluído ✅👏
 </h4>
+
+<img src="https://user-images.githubusercontent.com/70985334/127930104-eba8d191-c46b-402f-b3c9-6157ab2e41c4.png" alt="ecommerce" />
+<img src="https://user-images.githubusercontent.com/70985334/127930548-ef1d2c07-ce5f-4f20-8d28-14683daf0d69.png" alt="ecommerce" />
+
 <hr />
 
 ## ⛏ Tecnologias
